@@ -1,3 +1,4 @@
+// tc - o(n) sc - o(1)
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
